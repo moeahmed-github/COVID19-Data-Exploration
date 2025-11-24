@@ -158,9 +158,9 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 
 ##  Contact & Collaboration
 Hi! My name is Mohamed Ahmed.
-📧 Email: ihersi.mh@gmail.com.com
-💼 LinkedIn: linkedin.com/in/moe-ahmed-hersi
-Open to feedback, collaboration, and data analytics opportunities!
+- 📧 Email: ihersi.mh@gmail.com.com
+- 💼 LinkedIn: linkedin.com/in/moe-ahmed-hersi
+- Open to feedback, collaboration, and data analytics opportunities!
 
 ---
 
