@@ -153,3 +153,17 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 - Healthcare capacity metrics integration (ICU beds, ventilators)
 - Economic impact analysis correlation with health outcomes
 - Variant-specific tracking and mutation impact assessment
+
+---
+
+##  Contact & Collaboration
+Hi! My name is Mohamed Ahmed.
+📧 Email: ihersi.mh@gmail.com.com
+💼 LinkedIn: linkedin.com/in/moe-ahmed-hersi
+Open to feedback, collaboration, and data analytics opportunities!
+
+---
+
+##  Acknowledgments
+
+- Special thanks to **Alex**, also known as **Alex The Analyst** for providing clear, practical guidance on SQL data exploration techniques and demonstrating how to structure professional data analytics projects. His teaching approach helped shape the methodology and best practices applied throughout this analysis.
