@@ -1,4 +1,4 @@
-# COVID19-Data-Exploration
+# COVID19 Data Exploration
 
 ## Project Background
 
